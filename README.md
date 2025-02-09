@@ -57,8 +57,8 @@ GRANT ALL PRIVILEGES ON DATABASE bitespeed TO myuser;
 
 ### 3️⃣ Clone & Install Dependencies
 ```sh
-git clone https://github.com/your-username/project-folder.git
-cd project-folder
+git clone https://github.com/rohanwetal/bitespeed_task.git
+cd bitespeed_task
 npm install
 ```
 
@@ -136,7 +136,6 @@ Feel free to fork this repository, submit issues, or contribute improvements! �
 ---
 
 ## 💡 Author
-👨‍💻 **Your Name**  
-📧 **your.email@example.com**  
-🔗 [GitHub](https://github.com/your-username) | [LinkedIn](https://www.linkedin.com/in/your-profile)
+👨‍💻 **Rohan Wetal**  
+📧 **rohanwetal124@gmail.com**  
 
